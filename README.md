@@ -6,3 +6,4 @@ This document will take you through using CIPRES to create a MAFFT sequence alig
 
 The input file is Haemophilus_influenzae_16S.fasta
 The output files are output.mafft, RAxML_bestTree.result, and fastree_result.tree
+The final trees can be seen in RaxML_iTOL.png and FastTree_iTOL.png.
